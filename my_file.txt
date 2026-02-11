@@ -1,0 +1,6 @@
+Create a daily checklist application
+
+steps:
+1.Allow users to add tasks.
+2. Mark tasks as completed
+3. Store tasks locally.
